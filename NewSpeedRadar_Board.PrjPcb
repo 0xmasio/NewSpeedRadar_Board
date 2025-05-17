@@ -134,6 +134,23 @@ GenerateClassCluster=0
 DocumentUniqueId=FQVKENHA
 
 [Document6]
+DocumentPath=MCU176.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NGSLCOPO
+
+[Document7]
 DocumentPath=NewSpeedRadar_Board.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LFXFGSUT
 
-[Document7]
+[Document8]
 DocumentPath=NewSpeedRadar_Board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -165,7 +182,24 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MMOMQAHW
+
+[Document9]
+DocumentPath=NewSpeedRadar_Board.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IBSPIUIW
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for PetroTankMonitor\Design Rule Check - PetroTankMonitor.html
