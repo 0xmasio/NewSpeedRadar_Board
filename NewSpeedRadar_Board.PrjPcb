@@ -152,6 +152,23 @@ GenerateClassCluster=0
 DocumentUniqueId=NGSLCOPO
 
 [Document7]
+DocumentPath=USB_OTG_FS.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WDEQSKWS
+
+[Document8]
 DocumentPath=Power_CAN_IO_GPS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LFXFGSUT
 
-[Document8]
+[Document9]
 DocumentPath=NewSpeedRadar_Board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MMOMQAHW
 
-[Document9]
+[Document10]
 DocumentPath=NewSpeedRadar_Board.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
