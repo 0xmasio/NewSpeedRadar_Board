@@ -135,7 +135,7 @@ DocumentUniqueId=FQVKENHA
 
 [Document6]
 DocumentPath=STM32H743IIT6.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -151,8 +151,25 @@ GenerateClassCluster=0
 DocumentUniqueId=NGSLCOPO
 
 [Document7]
-DocumentPath=USB_OTG_FS.SchDoc
+DocumentPath=Ethernet.SchDoc
 AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TMXXRXJC
+
+[Document8]
+DocumentPath=USB_OTG_FS.SchDoc
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -167,9 +184,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WDEQSKWS
 
-[Document8]
+[Document9]
 DocumentPath=Power_CAN_IO_GPS.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -184,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LFXFGSUT
 
-[Document9]
+[Document10]
 DocumentPath=NewSpeedRadar_Board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MMOMQAHW
 
-[Document10]
+[Document11]
 DocumentPath=NewSpeedRadar_Board.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IBSPIUIW
 
-[Document11]
+[Document12]
 DocumentPath=CPU_v1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document13]
 DocumentPath=Controller 1.4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document14]
 DocumentPath=STM32F103_CAN_Power.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,25 +286,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
-DocumentPath=PCB_XL6009-BUCK-BOOST-CONVERTER_2_2025-05-19.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [Document15]
-DocumentPath=Ethernet.SchDoc
+DocumentPath=PCB_XL6009-BUCK-BOOST-CONVERTER_2_2025-05-19.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
