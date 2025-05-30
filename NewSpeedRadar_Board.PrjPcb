@@ -135,7 +135,7 @@ DocumentUniqueId=FQVKENHA
 
 [Document6]
 DocumentPath=STM32H743IIT6.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -169,7 +169,7 @@ DocumentUniqueId=TMXXRXJC
 
 [Document8]
 DocumentPath=USB_OTG_FS.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -186,7 +186,7 @@ DocumentUniqueId=WDEQSKWS
 
 [Document9]
 DocumentPath=Power_CAN_IO_GPS.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -321,6 +321,10 @@ GenerateClassCluster=0
 DocumentUniqueId=YSFFNYBS
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for NewSpeedRadar_Board\Design Rule Check - NewSpeedRadar_Board.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for PetroTankMonitor\Design Rule Check - PetroTankMonitor.html
 DItemRevisionGUID=
 
